@@ -1,0 +1,17 @@
+{
+  "name": "panni/markdown-parser",
+  "type": "library",
+  "version": "1.0.0",
+  "authors": [
+    {
+      "name": "Jan Wennrich",
+      "email": "jan@pcsg.de"
+    }
+  ],
+  "require": {},
+  "autoload": {
+    "psr-4": {
+      "MarkdownParser\\": "src/"
+    }
+  }
+}

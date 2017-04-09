@@ -1,0 +1,20 @@
+{
+  "name": "panni/markdown-parser-website",
+  "type": "project",
+  "authors": [
+    {
+      "name": "Jan Wennrich",
+      "email": "jan@pcsg.de"
+    }
+  ],
+  "repositories": [
+    {
+      "type": "path",
+      "url": "packages/markdown-parser"
+    }
+  ],
+  "require": {
+    "panni/markdown-parser": "*",
+    "twbs/bootstrap": "3.3.0"
+  }
+}
