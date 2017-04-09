@@ -1,6 +1,7 @@
 {
   "name": "panni/markdown-parser-website",
   "type": "project",
+  "version": "1.0.0",
   "authors": [
     {
       "name": "Jan Wennrich",
